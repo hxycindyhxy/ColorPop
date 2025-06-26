@@ -24,7 +24,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A58260BF2E0CE582008E052A /* ColorPalatte.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorPalatte.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A58260BF2E0CE582008E052A /* Colour Pop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Colour Pop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A58260CC2E0CE583008E052A /* ColorPalatteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorPalatteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A58260D62E0CE583008E052A /* ColorPalatteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorPalatteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -85,7 +85,7 @@
 		A58260C02E0CE582008E052A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A58260BF2E0CE582008E052A /* ColorPalatte.app */,
+				A58260BF2E0CE582008E052A /* Colour Pop.app */,
 				A58260CC2E0CE583008E052A /* ColorPalatteTests.xctest */,
 				A58260D62E0CE583008E052A /* ColorPalatteUITests.xctest */,
 			);
@@ -114,7 +114,7 @@
 			packageProductDependencies = (
 			);
 			productName = ColorPalatte;
-			productReference = A58260BF2E0CE582008E052A /* ColorPalatte.app */;
+			productReference = A58260BF2E0CE582008E052A /* Colour Pop.app */;
 			productType = "com.apple.product-type.application";
 		};
 		A58260CB2E0CE583008E052A /* ColorPalatteTests */ = {
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A58260BA2E0CE582008E052A /* Build configuration list for PBXProject "ColorPalatte" */;
+			buildConfigurationList = A58260BA2E0CE582008E052A /* Build configuration list for PBXProject "Color Pop" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -411,7 +411,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.CindyLab.ColorPalatte;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Colour Pop";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -439,7 +439,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.CindyLab.ColorPalatte;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Colour Pop";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -521,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A58260BA2E0CE582008E052A /* Build configuration list for PBXProject "ColorPalatte" */ = {
+		A58260BA2E0CE582008E052A /* Build configuration list for PBXProject "Color Pop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A58260DE2E0CE583008E052A /* Debug */,
