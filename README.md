@@ -91,6 +91,8 @@ Working closely with team members, we brainstormed around a shared problem and t
 * ⏱ Time and Project Management Under Pressure
 With just one day to complete the project from idea to working prototype, I improved how I scope features, prioritize tasks, and adapt quickly. We split responsibilities efficiently, which taught me how to balance speed with quality in a fast-paced environment.
 
+<br>
+
 ### 💼 About Me
 
 A passionate coder, designer, team player and lifelong learner. 👩🏻‍🌾
